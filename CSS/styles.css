@@ -32,11 +32,11 @@ a {
  
 
  hr { 
- 	border-top: 5px dotted #40514E;
+ 	border-top: 5px dotted black;
 	border-bottom: 0;
  	border-right:0;
  	border-left:0; 
- 	width: 10%;}
+ 	width: 15%;}
 
 .skill-row {
 	width: 50%;
