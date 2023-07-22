@@ -32,9 +32,8 @@ a {
  
 
  hr { 
- 	border: 5px dotted black;
-	border-style: none none dotted
- 	width: 15%;}
+ 	border-top: 5px dotted #40514E;
+ 	width: 10%;}
 
 .skill-row {
 	width: 50%;
